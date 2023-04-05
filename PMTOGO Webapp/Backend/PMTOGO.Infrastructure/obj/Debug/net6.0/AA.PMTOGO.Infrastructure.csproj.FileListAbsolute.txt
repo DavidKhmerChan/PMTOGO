@@ -1,0 +1,17 @@
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\bin\Debug\net6.0\AA.PMTOGO.Infrastructure.deps.json
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\bin\Debug\net6.0\AA.PMTOGO.Infrastructure.dll
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\bin\Debug\net6.0\AA.PMTOGO.Infrastructure.pdb
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\bin\Debug\net6.0\AA.PMTOGO.Libary.dll
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\bin\Debug\net6.0\AA.PMTOGO.Models.dll
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\bin\Debug\net6.0\AA.PMTOGO.Libary.pdb
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\bin\Debug\net6.0\AA.PMTOGO.Models.pdb
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\obj\Debug\net6.0\AA.PMTOGO.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\obj\Debug\net6.0\AA.PMTOGO.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\obj\Debug\net6.0\AA.PMTOGO.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\obj\Debug\net6.0\AA.PMTOGO.Infrastructure.AssemblyInfo.cs
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\obj\Debug\net6.0\AA.PMTOGO.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\obj\Debug\net6.0\AA.PMTOGO.Infrastructure.csproj.CopyComplete
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\obj\Debug\net6.0\AA.PMTOGO.Infrastructure.dll
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\obj\Debug\net6.0\refint\AA.PMTOGO.Infrastructure.dll
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\obj\Debug\net6.0\AA.PMTOGO.Infrastructure.pdb
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Infrastructure\obj\Debug\net6.0\ref\AA.PMTOGO.Infrastructure.dll

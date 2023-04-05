@@ -1,0 +1,12 @@
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Domain\bin\Debug\net6.0\AA.PMTOGO.Models.deps.json
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Domain\bin\Debug\net6.0\AA.PMTOGO.Models.dll
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Domain\bin\Debug\net6.0\AA.PMTOGO.Models.pdb
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Domain\obj\Debug\net6.0\AA.PMTOGO.Models.csproj.AssemblyReference.cache
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Domain\obj\Debug\net6.0\AA.PMTOGO.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Domain\obj\Debug\net6.0\AA.PMTOGO.Models.AssemblyInfoInputs.cache
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Domain\obj\Debug\net6.0\AA.PMTOGO.Models.AssemblyInfo.cs
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Domain\obj\Debug\net6.0\AA.PMTOGO.Models.csproj.CoreCompileInputs.cache
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Domain\obj\Debug\net6.0\AA.PMTOGO.Models.dll
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Domain\obj\Debug\net6.0\refint\AA.PMTOGO.Models.dll
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Domain\obj\Debug\net6.0\AA.PMTOGO.Models.pdb
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\PMTOGO.Domain\obj\Debug\net6.0\ref\AA.PMTOGO.Models.dll

@@ -1,0 +1,15 @@
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\AA.PMTOGO.Libary\bin\Debug\net6.0\AA.PMTOGO.Libary.deps.json
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\AA.PMTOGO.Libary\bin\Debug\net6.0\AA.PMTOGO.Libary.dll
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\AA.PMTOGO.Libary\bin\Debug\net6.0\AA.PMTOGO.Libary.pdb
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\AA.PMTOGO.Libary\bin\Debug\net6.0\AA.PMTOGO.Models.dll
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\AA.PMTOGO.Libary\bin\Debug\net6.0\AA.PMTOGO.Models.pdb
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\AA.PMTOGO.Libary\obj\Debug\net6.0\AA.PMTOGO.Libary.csproj.AssemblyReference.cache
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\AA.PMTOGO.Libary\obj\Debug\net6.0\AA.PMTOGO.Libary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\AA.PMTOGO.Libary\obj\Debug\net6.0\AA.PMTOGO.Libary.AssemblyInfoInputs.cache
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\AA.PMTOGO.Libary\obj\Debug\net6.0\AA.PMTOGO.Libary.AssemblyInfo.cs
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\AA.PMTOGO.Libary\obj\Debug\net6.0\AA.PMTOGO.Libary.csproj.CoreCompileInputs.cache
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\AA.PMTOGO.Libary\obj\Debug\net6.0\AA.PMTOGO.Libary.csproj.CopyComplete
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\AA.PMTOGO.Libary\obj\Debug\net6.0\AA.PMTOGO.Libary.dll
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\AA.PMTOGO.Libary\obj\Debug\net6.0\refint\AA.PMTOGO.Libary.dll
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\AA.PMTOGO.Libary\obj\Debug\net6.0\AA.PMTOGO.Libary.pdb
+C:\Users\Noy\Documents\GitHub\491B\Backend\PMTOGO.WebAPP\AA.PMTOGO.Libary\obj\Debug\net6.0\ref\AA.PMTOGO.Libary.dll
