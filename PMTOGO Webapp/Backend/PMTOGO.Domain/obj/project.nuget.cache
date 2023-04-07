@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2eUpHFNxo6iV9Eu/kfA9VO/TixwhGdItQ9VC/PdULICfcTS1G96jyaXSNWeVXG0YDXHbUBq3JRwbW0btyu4wtg==",
+  "dgSpecHash": "u2+fTQmdbqYn+GYJQqM4MBlBO/xDqYSgZDa0lXeKEHiiiA3pc9a+dlW1BLBq/6eXMgjA0U3p72ae0c6RBSm0hQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Noy\\Documents\\GitHub\\491B\\Backend\\PMTOGO.WebAPP\\PMTOGO.Domain\\AA.PMTOGO.Models.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/ahuynh/Documents/Github/PMTOGO/PMTOGO Webapp/Backend/PMTOGO.Domain/AA.PMTOGO.Models.csproj",
+  "expectedPackageFiles": [
+    "/home/ahuynh/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/home/ahuynh/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
